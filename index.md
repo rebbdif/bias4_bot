@@ -9,8 +9,7 @@ bias4_bot - инструмент, который позволяет провод
 
 Статистика прохождения курса поможет вам улучшать образовательный опыт студентов. Например, подскажет, где стоит объяснить понятнее.
 
-<img src="/assets/stats_julia.jpeg" width="600">
-![smiley](/assets/stats_julia.jpeg){ =600x }
+<img src="https://github.com/rebbdif/bias4_bot/assets/stats_julia.jpeg" width="600">
 
 
 
