@@ -7,9 +7,9 @@
 
 ## Кейсы
 
-![alt text](http://url/to/img.png)
+![alt text](/assets/scheme.png)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/rebbdif/bias4_landing/blob/assets/scheme.png?raw=true)
 
 
 You can use the [editor on GitHub](https://github.com/rebbdif/bias4_landing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
