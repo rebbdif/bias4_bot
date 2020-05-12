@@ -3,16 +3,13 @@ bias4_bot - инструмент, который позволяет провод
 
 Вот как он устроен:
 
-![alt text](/assets/scheme.png =100x200)
-
-<img src="/assets/scheme.png" width="200">
+<img src="/assets/scheme.png" width="600">
 
 
 
 Статистика прохождения курса поможет вам улучшать образовательный опыт студентов. Например, подскажет, где стоит объяснить понятнее.
 
-
-![alt text](/assets/stats_julia.jpeg =250x)
+<img src="/assets/stats_julia.jpeg" width="600">
 
 
 
