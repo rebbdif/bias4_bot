@@ -1,51 +1,37 @@
-## Bias4 bot
+# Bias4 bot
 
-## Как работает? 
 
-## Как работает? 
+
+## Что это? 
+
+bias4_bot - инструмент, который позволяет проводить онлайн-курсы в мессенджерах, удобных пользователям.
+
+Вот как он работает:
+
+![alt text](/assets/scheme.png)
+
+
+Статистика прохождения курса поможет вам улучшать образовательный опыт студентов. Например, подскажет, где стоит объяснить понятнее.
+
+![alt text](/assets/stats_julia.jpeg)
+
 
 
 ## Кейсы
 
-![alt text](/assets/scheme.png)
+[Клуб Дебатов РЭУ](http://debate-reu.tilda.ws) - используют бота для проведения начального семестра занятий. Бот позволил обучить на треть больше студентов, сохранив качество и повысив вовлечённость. Ещё помог выстроить взаимодействие студентов с их менторами. 
 
-![alt text](https://github.com/rebbdif/bias4_landing/blob/assets/scheme.png?raw=true)
-
-
-You can use the [editor on GitHub](https://github.com/rebbdif/bias4_landing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+[Студия коммуникаций BЕsmart](https://besmart.space) - используют бота с августа 2019 для обучения своих студентов навыкам коммуникации, логическому мышлению и дебатам.
 
 
 
-- Bulleted
-- List
+## А можно посмотреть, как работает? 
 
-1. Numbered
-2. List
+Да, вы можете посмотреть бесплатный курс по аргументации от BEsmart, вот он: https://besmart.space/online-argumentation
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Если у вас остались вопросы, смело пишите в telegram @serebryanyy или в [facebook](https://www.facebook.com/leonid.serebryanyy)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rebbdif/bias4_landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+💌🤖
