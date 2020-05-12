@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Bias4 bot
+
+## Как работает? 
+
+## Как работает? 
+
+
+## Кейсы
+
+![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 You can use the [editor on GitHub](https://github.com/rebbdif/bias4_landing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,6 +26,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+
 
 - Bulleted
 - List
