@@ -8,9 +8,8 @@ bias4_bot - инструмент, который позволяет провод
 
 Статистика прохождения курса поможет вам улучшать образовательный опыт студентов. Например, подскажет, где стоит объяснить понятнее.
 
-<img src="https://github.com/rebbdif/bias4_bot/assets/stats_julia.jpeg" width="600">
-![](https://github.com/rebbdif/bias4_bot/assets/stats_julia.jpeg | width=600)
-![](/assets/stats_julia.jpeg | width=600)
+<img src="/bias4_bot/assets/stats_julia.jpeg" width="600">
+
 
 
 # Кейсы
