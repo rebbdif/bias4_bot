@@ -5,7 +5,7 @@ bias4_bot - инструмент, который позволяет провод
 
 ![alt text](/assets/scheme.png =100x200)
 
-
+<img src="/assets/scheme.png" width="200">
 
 
 
