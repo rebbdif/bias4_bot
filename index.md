@@ -3,7 +3,7 @@ bias4_bot - инструмент, который позволяет провод
 
 Вот как он устроен:
 
-<img src="https://github.com/rebbdif/bias4_bot/assets/scheme.png" width="600">
+<img src="https://github.com/rebbdif/bias4_bot/assets/scheme.png">
 
 
 
