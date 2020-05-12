@@ -32,7 +32,8 @@ bias4_bot - инструмент, который позволяет провод
 
 
 
-# Если у вас остались вопросы, смело пишите в telegram @serebryanyy или в [facebook](https://www.facebook.com/leonid.serebryanyy)
+
+Если у вас остались вопросы, смело пишите в telegram @serebryanyy или в [facebook](https://www.facebook.com/leonid.serebryanyy)
 
 
 💌🤖
