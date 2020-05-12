@@ -3,7 +3,7 @@ bias4_bot - инструмент, который позволяет провод
 
 Вот как он устроен:
 
-![alt text](/assets/scheme.png =250x)
+![alt text](/assets/scheme.png =100x200)
 
 
 
